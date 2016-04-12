@@ -1,0 +1,17 @@
+﻿Build started 2015-03-11 17:42:00.
+     1>Project "D:\Uczelnia\Pp po raz 3\projekt2\arkanoid\Zadanie2 - VS2010.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Zadanie2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Zadanie2 - VS2010.vcxproj -> D:\Uczelnia\Pp po raz 3\projekt2\arkanoid\Debug\Zadanie2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Zadanie2.unsuccessfulbuild".
+         Touching "Debug\Zadanie2.lastbuildstate".
+     1>Done Building Project "D:\Uczelnia\Pp po raz 3\projekt2\arkanoid\Zadanie2 - VS2010.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.69

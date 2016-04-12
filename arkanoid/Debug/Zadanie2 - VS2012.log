@@ -1,0 +1,21 @@
+﻿  main.cpp
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(318): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(319): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(324): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(325): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(332): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(334): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(352): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(353): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(393): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(394): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(495): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(503): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(505): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+d:\uczelnia\pp po raz 3\projekt2\git\arkanoid\main.cpp(681): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Zadanie2 - VS2012.vcxproj -> D:\Uczelnia\Pp po raz 3\projekt2\git\arkanoid\Debug\Zadanie2.exe
